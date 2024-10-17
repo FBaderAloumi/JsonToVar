@@ -15,8 +15,11 @@ To install these packages, you can use `pip`:
 ```bash
 pip install json sys csv
 
+```
 
 How to Use
 Open the Command Prompt (CMD).
 Execute the following command:
+```bash
 C:/Users/{user}/AppData/Local/Programs/Python/Python312/python.exe c:/Users/{user}/PycharmProjects/jsontovar.py C:/Users/{user}/Downloads/Package_approval_PRD/operation-helper.json c:/Users/{user}/PycharmProjects/output_operation_helper.csv
+```
